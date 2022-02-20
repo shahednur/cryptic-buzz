@@ -1,0 +1,7 @@
+export { default as Homepages  } from './Homepages'
+export { default as News  } from './News'
+export { default as CrypticCurrencies  } from './CrypticCurrencies'
+export { default as CrypticDetails  } from './CrypticDetails'
+export { default as Exchanges } from './Exchanges'
+export { default as Sidebar } from './Sidebar'
+export { default as LineChart } from './LineChart'
